@@ -1,4 +1,4 @@
-# Resume Reader
+# Res-tractor
 It is a Resume Reader Application program made using NodeJs and returns .csv file which extracts email,phhone number, linkedin profile, no of lines and no of characters present in uploaded resume.
 
 # Usage
